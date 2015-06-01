@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Owner/Desktop/Battleship_GAME.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Battleship_Game/Battleship_GAME.jardesc" exportErrors="false" exportWarnings="false" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Battleship_Game/src"/>
+        <file path="/Battleship_Game/Battleship_SERVER.xml"/>
+        <file path="/Battleship_Game/.classpath"/>
+        <file path="/Battleship_Game/Battleship_CLIENT.xml"/>
+        <file path="/Battleship_Game/Battleship_GAME.jardesc"/>
+        <file path="/Battleship_Game/.project"/>
+    </selectedElements>
+</jardesc>
